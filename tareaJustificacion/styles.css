@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+.column {
+    flex: 1;
+    padding: 20px;
+}
+.yellow {
+    background-color: #FFD700;
+}
+.blue {
+    background-color: #00BFFF;
+}
+.red {
+    background-color: #FF6347;
+}
+.green {
+    background-color: #98FB98;
+    padding: 10px 0;
+}
+img {
+    width: 100px;
+    height: auto;
+}

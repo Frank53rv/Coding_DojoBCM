@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+.col {
+    background-color: #add8e6;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+.col-2 {
+    flex: 2;
+     padding-right: 400px;
+}
+.col-3 {
+    flex: 4;
+    padding-left: 700px;
+   
+}
+.col {
+    flex: 1;
+}
